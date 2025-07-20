@@ -7,8 +7,8 @@
   <em>Entusiasta de <b>Ethical Hacking</b> e desenvolvimento de <b>Malware</b>.</em>
     <p></p>
     <p>
-    🛰️ Atualmente explorando técnicas de Red Team e Malware Dev.<br>
-    🔗 Conecte-se comigo no <a href="https://www.linkedin.com/in/lucas-muniz-damiani-36006b239/">LinkedIn</a>.
+    🛰️ Exploring Red team techniques & malware dev.<br>
+    🔗 Contact me <a href="https://www.linkedin.com/in/lucas-muniz-damiani-36006b239/">LinkedIn</a>.
   </p>
 </div>
 <div align="left"> 
@@ -21,7 +21,7 @@
 <div align="left">
   <h1>📈</h1>
   <div style="display: flex; justify-content: center; align-items: center; gap: 16px;">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=dvcasz&theme=monokai&show_icons=true&hide_border=false&count_private=true"/>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvcasz&theme=monokai&show_icons=true&hide_border=false&layout=compact"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=dvcasz&theme=monokai&show_icons=true&hide_border=false&count_private=true"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvcasz&theme=monokai&show_icons=true&hide_border=false&layout=compact"/>
 <div align="center">
 </div>
