@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="display: inline-block">Olá, eu sou o DvcaSz 👋</h1>
+  <h1 style="display: inline-block">Hi, i'm DvcaSz 👋</h1>
 </div>
 
 <div align="left">
