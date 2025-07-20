@@ -8,7 +8,6 @@
     <p></p>
     <p>
     🛰️ Atualmente explorando técnicas de Red Team e Malware Dev.<br>
-    ✉️ Contate-me pelo e-mail: <b>damiani.lucasm@gmail.com</b><br>
     🔗 Conecte-se comigo no <a href="https://www.linkedin.com/in/lucas-muniz-damiani-36006b239/">LinkedIn</a>.
   </p>
 </div>
