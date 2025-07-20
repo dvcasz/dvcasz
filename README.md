@@ -19,6 +19,7 @@
 <br>
 
 <div align="left">
+  <h1>📈</h1>
   <div style="display: flex; justify-content: center; align-items: center; gap: 16px;">
     <img height="100em" src="https://github-readme-stats.vercel.app/api?username=dvcasz&theme=monokai&show_icons=true&hide_border=false&count_private=true"/>
     <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvcasz&theme=monokai&show_icons=true&hide_border=false&layout=compact"/>
