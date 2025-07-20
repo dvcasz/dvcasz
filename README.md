@@ -3,7 +3,7 @@
 </div>
 
 <div align="left">
-  <img align="right" src="media/cyberpunk-ghost-in-the-shell.gif" width="350px">
+  <img align="right" src="media/cyberpunk-ghost-in-the-shell.gif" width="400px">
   <em>Entusiasta de <b>Ethical Hacking</b> e desenvolvimento de <b>Malware</b>.</em>
     <p></p>
     <p>
@@ -18,9 +18,8 @@
 </div>
 <br>
 <div align="left">
-  <h3>📊 Minhas Estatísticas no GitHub</h3>
   <div style="display: flex; justify-content: center; align-items: center; gap: 16px;">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=dvcasz&theme=monokai&show_icons=true&hide_border=false&count_private=true"/>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvcasz&theme=monokai&show_icons=true&hide_border=false&layout=compact"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=dvcasz&theme=monokai&show_icons=true&hide_border=false&count_private=true"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvcasz&theme=monokai&show_icons=true&hide_border=false&layout=compact"/>
 <div align="center">
 </div>
