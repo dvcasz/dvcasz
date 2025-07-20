@@ -20,10 +20,7 @@
 
 <div align="left">
   <div style="display: flex; justify-content: center; align-items: center; gap: 16px;">
-    <p></p>
-    <p></p>
-    <p></p>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=dvcasz&theme=monokai&show_icons=true&hide_border=false&count_private=true"/>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvcasz&theme=monokai&show_icons=true&hide_border=false&layout=compact"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=dvcasz&theme=monokai&show_icons=true&hide_border=false&count_private=true"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvcasz&theme=monokai&show_icons=true&hide_border=false&layout=compact"/>
 <div align="center">
 </div>
