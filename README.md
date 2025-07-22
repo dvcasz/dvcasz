@@ -3,7 +3,7 @@
 </div>
 
 <div align="left">
-  <img align="right" src="media/cyberpunk-ghost-in-the-shell.gif" width="450px">
+  <img align="right" src="media/cyberpunk-ghost-in-the-shell.gif" width="440px">
   <em><b>Ethical Hacking</b> enthusiast and <b>Malware</b> Development.</em>
     <p></p>
     <p>
